@@ -1,0 +1,7 @@
+c:\users\hsun\documents\visual studio 2012\Projects\Palindromes\Palindromes.UnitTests\bin\Debug\Palindromes.UnitTests.dll
+c:\users\hsun\documents\visual studio 2012\Projects\Palindromes\Palindromes.UnitTests\bin\Debug\Palindromes.UnitTests.pdb
+c:\users\hsun\documents\visual studio 2012\Projects\Palindromes\Palindromes.UnitTests\obj\Debug\Palindromes.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\hsun\documents\visual studio 2012\Projects\Palindromes\Palindromes.UnitTests\obj\Debug\Palindromes.UnitTests.dll
+c:\users\hsun\documents\visual studio 2012\Projects\Palindromes\Palindromes.UnitTests\obj\Debug\Palindromes.UnitTests.pdb
+C:\Users\hsun\Documents\Visual Studio 2012\Projects\Palindromes\Palindromes.UnitTests\bin\Debug\Palindromes.exe
+C:\Users\hsun\Documents\Visual Studio 2012\Projects\Palindromes\Palindromes.UnitTests\bin\Debug\Palindromes.pdb
